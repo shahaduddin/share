@@ -6,11 +6,15 @@ Minimal collection of MATLAB/Octave scripts and numerical-analysis sheets for pr
 - Mathematics Practical Lab/ — MATLAB scripts for numerical methods:
   - Bisection_Method.m
   - Newton_Method.m
+  - Jacobi_Iterative_System_LE.m
+  - Jacobi_Iterative_System_LE_1.m
   - Mother_Code_jacobi_gauss_sor.m
   - lagrange_interpolation.m
   - divided_difference_interpolation.m
   - newtonforward_interpolation.m
   - newtonbackward_interpolation.m
+  - Numerical_Differentiation.m
+  - Numerical_Integration.m
 - Mathematics Practical Lab/Numerical Sheet/ — PDF problem sheets and solution/code lists (Sheets 1–11, questions, final codes).
 
 ## Quick start
